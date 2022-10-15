@@ -1,1 +1,1 @@
-# N-mero-de-Ocorr-ncias-das-Palavras
+# Word counter
